@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: arial;
+    font-size: 16px;
+    color:black;
+    font-weight: bold;
+}
+header {
+    height: 105px;
+    background-color: lightgray;
+    /*#c3c0b0;*/
+    padding: 10px 0;
+    border-bottom: 3px solid black;
+}
+img {
+    border-radius: 50%;
+}
+/*footer {
+    height: 50px;
+    background-color: #262626; 
+    color: #f4f4f4;
+    padding: 11px 0;
+    text-align: center;
+    font-size: 16px;
+} */
+
+/* id */
+#conteudo {
+    padding: 50px 0;
+}
+#menu{
+    float: right;
+    padding: 30px 0;
+    margin-right: 10px;
+}
+#menu a{
+    text-decoration: none; 
+    font-size: 15px;
+    padding: 40px 40px; 
+    color: black;
+    font-weight: bolder;
+}
+#menu a:hover {
+    color: white;
+    background-color: lightslategrey;
+    /*#1f4b90;*/
+    /*#44b874;*/
+}
